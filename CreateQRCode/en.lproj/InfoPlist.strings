@@ -1,0 +1,2 @@
+AMName = "CreateQRCode";
+AMDSummary = "This action creates QR code based on text input or file text input";
